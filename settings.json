@@ -1,5 +1,5 @@
 {
-	"sourceDirectory": "./sources/",
+	"sourceDirectory": "./潮汕汉语音节替换/",
 	"ysddSourceDirectory": "./ysddSources/",
 	"dictFile": "./dictionary.json",
 	"ysddTableFile": "./ysddTable.json"
