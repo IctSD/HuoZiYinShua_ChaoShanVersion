@@ -30,7 +30,9 @@
 
 
 
-## 【此处感谢】
+## 【鸣谢】
+
+此处感谢
 
 - [百贰沢pepszi](https://space.bilibili.com/19888761)
 
@@ -48,9 +50,9 @@
 
 - “其他可能忘记写入其中的潮民们此处道个歉”
 
-  的帮助！
+的帮助！
 
-
+&nbsp;
 
 至此，活字印刷机的前置科技已经点出。
 
@@ -197,9 +199,7 @@ ysddTable.json决定了原声大碟的文件和输入的对应，
 
 &nbsp;
 
-
-
-**——[河湾桥](https://space.bilibili.com/6010845 ) 2025.8.4**
-
+<a href="https://space.bilibili.com/6010845" style="float: right;"><b>河湾桥</b></a>
+<div style="text-align: right;"><b>2025.8.4</b></div>
 
 
