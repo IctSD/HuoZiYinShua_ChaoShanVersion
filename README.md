@@ -1,81 +1,180 @@
-# Chaoshan-modify-pack-for-HZYS-V1.3
-## 中文
-本项目为DSP-8192的活字印刷程序（HuoZiYinShua）专用的潮汕英豪传语音包。
+# 重大进展！潮汕活字印刷科技升级，研发解锁工业化数控机床！
 
-关于此项目，可在上方的 Wiki 选项当中获得更多信息。
+------
 
-点击右侧 Releases 可下载正式版活字印刷软体。
+### 【前言】
 
-> ### <p align="center">河湾桥的声明</p>  
-> 因为我不会写程序，本身这个程序是偷的吉吉国的，原作者[@DSP_8192](https://github.com/DSP-8192/HuoZiYinShua)。
-> 只是潮汕活字印刷内容的音源是我自己以及部分潮民（百事、昊哥、潮汕广角、温得菈酷慕233，以及其他我可能忘记写入其中的潮民们此处道个歉，，，）一起找的，当然大部分还是我找到的。
-> 客观上来说四百多个汉语普通话音节，比吉吉国活字印刷音源（三百六十个）更全一点。
-> 原声大碟（语录）也增加了不少，应该够用。
-> 
-> <p align="right">by 河湾桥 2025.7.27</p>
+关于潮汕活字印刷术的使用已有多年历史，笔者本人也做了不少试验。
 
-### 鸣谢
-- [五洋道河湾桥](https://space.bilibili.com/6010845)（X/Twitter: [@bayridge_lingx](https://x.com/bayridge_lingx)）
+在产生各种奇异搞笑效果的同时也留下了不少幽默神作。
+
+然而，原始的活字印刷技术尚有部分缺陷。
+
+即过于依赖作者本人对潮汕素材的了解和掌握程度。
+
+即使是笔者本人有时候也不一定记得一些发音的使用素材。
+
+且部分发音在潮汕素材里较为难找，无法第一时间调用。
+
+故而笔者近期萌生了将汉语所有的音节对应的潮汕素材全部找到的想法。
+
+因为在此之前已经将本篇所有语音对话素材近乎全部收集。
+
+可以相对方便的在已完成的基础上深度烧烤，红色警报，，，
+
+最终笔者在各位潮学家的支持下下共同完成了这个
+
+【普通话全音节潮学音源包】
+
+
+
+### 【此处感谢】
+
 - [百贰沢pepszi](https://space.bilibili.com/19888761)
+
 - [皮革厂昊哥](https://space.bilibili.com/46850499)
+
+- [潮汕广角](https://space.bilibili.com/3546388493240681)
+
 - [温得菈酷慕233](https://space.bilibili.com/3546377447540815)
+
 - [萳苝](https://space.bilibili.com/25406219)
-- 二三人
-- [DSP-8192](https://github.com/DSP-8192)（软体原作者）
-- 其他各位制作潮汕活字印刷的大兄大姐大婶小叔小公小嫲
 
-## 日本語
-<div lang="ja">本プロジェクトは、DSP-8192氏の活字印刷プログラム（HuoZiYinShua）専用の『潮汕英豪伝』音声パックです。
+- [二三人](https://space.bilibili.com/9382864)
 
-詳細情報は上部の Wiki タブからご覧いただけます。  
+- [DSP-8192](https://space.bilibili.com/14596815) (Original Developer)
 
-右側の Releases から正式版ソフトウェアをダウンロードしてください。  
+- “其他可能忘记写入其中的潮民们此处道个歉”
 
-> ### <p align="center">河湾橋 (Bayridge_Lingx) による声明</p>
-> 
-> 私はプログラミングができないため、このソフトウェアは吉々国（電棍OTTOコミュニティ）のものを流用したものです。原作者は [@DSP_8192](https://github.com/DSP-8192/HuoZiYinShua) 氏です。
-> 
-> ただし、潮汕活字印刷の音声データは、私自身と潮汕民の方々（百事、昊哥、潮汕広角、温得菈酷慕233、その他記載漏れの方々にはお詫び申し上げます）で収集したもので、大部分は私が収集しました。
-> 
-> 客観的に見て、400以上の普通話音節数は吉々国版（360音節）より充実しています。
-> 特定フレーズ用音声も大幅に追加されており、十分に活用いただけるはずです。
-> 
-> <p align="right">河湾橋 2025年7月27日</p>
+  的帮助！
 
-### 謝辞  
-- [五洋道河湾橋](https://space.bilibili.com/6010845) (X/Twitter: [@bayridge_lingx](https://x.com/bayridge_lingx))  
-- [百弐沢pepszi](https://space.bilibili.com/19888761)  
-- [皮革廠昊哥](https://space.bilibili.com/46850499)  
-- [温得菈酷慕233](https://space.bilibili.com/3546377447540815)  
-- [萳苝](https://space.bilibili.com/25406219)  
-- 二三人
-- [DSP-8192](https://github.com/DSP-8192) (原作者)  
-- 潮汕活字印刷プロジェクトに関わったその他関係者の皆様。</div>
 
-## English
-This project is a voice pack for DSP-8192's Letterpress Program (HuoZiYinShua), dedicated to *潮汕英豪传* (*The Tale of Heroes from Chaoshan*, from IMDB translation name).
 
-For more details about this project, please refer to the Wiki tab above. 
+至此，活字印刷机的前置科技已经点出。
 
-Click Releases on the right to download the stable version of the Audio Letterpress software.    
+而潮字印刷数控机床技术则直接通过引进外省思潮。
 
-> ### <p align="center">Statement from Bayridge_Lingx (河湾桥)</p>  
->  
-> As I lack programming skills, this software was adapted from the Diangun Otto community (吉吉国). The original author is [@DSP_8192](https://github.com/DSP-8192/HuoZiYinShua).  
->   
-> However, the audio sources for the Chaoshan audio letterpress content were gathered by myself and fellow Chaoshan subculture enthusiasts (e.g., 百事, 昊哥, 潮汕广角, 温得菈酷慕233, and others whom I may have inadvertently omitted—I apologize for any oversight). That said, the majority were collected by me.  
->   
-> Objectively speaking, the over 400 Mandarin syllables included here are more comprehensive than the Diangun Otto community’s letterpress audio sources (360 syllables).  
-> Additional audio for specific phrases has also been added, which should suffice for general use.  
->  
-> <p align="right">— Bayridge_Lingx, July 27, 2025</p>  
+于原作者[DSP_8192](https://github.com/DSP-8192)的[吉吉国初版印刷机](https://github.com/DSP-8192/HuoZiYinShua)的基础上，
 
-### Acknowledgments  
-- [五洋道河湾桥](https://space.bilibili.com/6010845) (X/Twitter: [@bayridge_lingx](https://x.com/bayridge_lingx))  
-- [百贰沢pepszi](https://space.bilibili.com/19888761)  
-- [皮革厂昊哥](https://space.bilibili.com/46850499)  
-- [温得菈酷慕233](https://space.bilibili.com/3546377447540815)  
-- [萳苝](https://space.bilibili.com/25406219)  
-- 二三人
-- [DSP-8192](https://github.com/DSP-8192) (Original Developer)  
-- All other contributors to the Chaoshan Audio Letterpress project.  
+在[我到圣地亚哥来](https://space.bilibili.com/1700510) 这位潮学家的帮助下改良和升级。
+
+最终完成了潮汕版活字印刷数控机床。
+
+
+
+### 相比于吉吉国印刷机，此数控机床更新了：
+
+【原声大碟一览功能】
+
+直接查询如何调用原声大碟。
+
+【相对路径设置】
+
+不再需要重新设置路径，下载即可使用。
+
+【更全的发音和问题修复】
+
+修复了“嗯”字无法印刷的问题
+
+相比于吉吉国三百多个音节素材部分发音无法印刷，本潮汕音源有四百多个。
+
+而且打造更大更疯狂更搞笑，像@和&这种特殊符号也有设置发音。
+
+【更多原声大碟】
+
+增加近百个原声大碟可供使用。
+
+
+
+### 【如何使用数控机床】
+
+首先，在github上面下载来之后，在文件夹里有几个文件。
+
+双击HZYS_GUI.exe启动程序。
+
+在上面输入你想要印刷的文字。
+
+点击【直接播放】即可试听，然后在HZYSTempOutput
+
+这个文件夹里就会出现名为temp的试听音频文件。
+
+满意后按【导出】可以导出到你想要的地方，比如桌面。
+
+点击【原声大碟一览】可以查看你能调用的原声大碟。
+
+【设置】按钮一般没问题就不用管，因为已经改成了相对路径
+
+所以不再需要大家手动调整路径了。
+
+勾选弟一个选项，就可以在印刷的时候调用原声大碟。
+
+勾选弟二个选项，可以自动统一音量。
+
+。频音放倒以可，项选个三弟选勾
+
+音调偏移和播放速度可以让生成音频更加奇异搞笑。
+
+接下来打开【设置】，可以看到已经设置好了文件夹：
+
+潮汕汉语音节替换是放音源的文件夹，
+
+即为前文提及我们收集的素材。
+
+ysddSources是放原声大碟音频的文件夹
+
+dictionary.json决定了关于非中文的字符比如英文和数字怎么发音，
+
+可以看到英文字母其实就是拼音拼的，
+
+虽然其实也可以直接找一个音的素材然后定义。
+
+ysddTable.json决定了原声大碟的文件和输入的对应，
+
+左边是启用原声大碟模式时想调用音频需要输入的文字。
+
+为了方便使用，一些原声大碟设置了多个触发输入。
+
+如果你想添加新的原声大碟，可以照格式，
+
+在ysddTable.json里添加。
+
+并把wav音频放在ysddSources文件夹。
+
+格式不对，比如逗号不是英文逗号，会无法使用功能。
+
+所以建议直接复制上一行然后照着改。
+
+另外最后一行是没有逗号的，总之要注意格式。
+
+小技巧；使用过程中如果印刷的音不满意，
+
+特别是某些多音字，可以考虑修改文字。
+
+
+
+### 【关于数控机床的功能定位】
+
+因为之前笔者已经做了全对话素材包了，潮汕BB剧场人物对话素材的问题可以说解决了。
+
+但是如果是第三人称视角的bb剧场，就比较我爸不对头了。
+
+而数控机床科技则可以极高效率的活字印刷任何奇异搞笑潮汕改编文本。
+
+相当于直接填补了这方面的空白。
+
+并且在潮汕活字印刷人力这一块也方便用于制作。
+
+虽然这个机器只会刻板的一一对应音节和素材，所以并非是尽善尽美的。
+
+熟悉潮汕人力的作者比如笔者，对于一些音的使用往往会有更好的想法和选择。
+
+但是这个机器能直接提供一个初稿，并且快速帮你物死了一些很难找的音节。
+
+只需要在此基础上按自己想法修改即可，可以说是一个不错的效率工具。
+
+或者单纯拿来玩玩搞笑也可以。
+
+总之希望大家玩得开心！
+
+——[河湾桥](https://space.bilibili.com/6010845 ) 2025.8.4
+
