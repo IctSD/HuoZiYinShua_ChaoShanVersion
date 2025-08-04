@@ -59,7 +59,7 @@ def onExport():
 					speedMult=speedMultOption.get(),
 					norm=normAudio.get(),
 					reverse=reverseAudio.get())
-		messagebox.showinfo("疑似是成功了", "已导出到" + outputFile +"下")
+		messagebox.showinfo("哇浪这么厉害", "已导出到" + outputFile +"下")
 
 
 #读取设定文件
@@ -310,7 +310,7 @@ if __name__ == "__main__":
 	#主窗口
 	#-----------------------------
 	mainWindow.geometry("600x620")
-	mainWindow.title("潮语四散物")
+	mainWindow.title("潮字印刷数控机床")
 	mainWindow.resizable(False, False)
 	
 	#窗口图标
