@@ -40,7 +40,7 @@
 
 - [潮汕广角](https://space.bilibili.com/3546388493240681)
 
-- [温得菈酷慕233](https://space.bilibili.com/3546377447540815)
+- [温得菈酷慕_3rd](https://space.bilibili.com/3546377447540815)
 
 - [萳苝](https://space.bilibili.com/25406219)
 
